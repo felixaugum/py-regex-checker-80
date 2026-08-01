@@ -1,2 +1,4 @@
-# py-regex-checker-80
+# Py Regex Checker 80
+
 Verify regular expressions in Python.
+
